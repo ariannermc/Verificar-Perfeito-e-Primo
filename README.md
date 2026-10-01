@@ -65,7 +65,7 @@ Verificar-Perfeito-e-Primo/
 | Java 8 | Linguagem principal |
 | `Scanner` | Leitura do número digitado pelo usuário |
  
-Nenhuma biblioteca externa necessária.
+> Nenhuma biblioteca externa é necessaria, usa somente recursos nativos no Java
  
 ---
  
